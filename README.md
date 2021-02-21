@@ -56,9 +56,6 @@ To add in Markdown format, use this code:
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/edit/main/README)
 ```
 
-## Example Readmes
-
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
 
 ## Related Efforts
 
