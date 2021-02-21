@@ -4,7 +4,7 @@
 
 Project purpose
 
-A mobile application based on [React Native](https://reactnative.dev/) allows users to download the application through their mobile phones to follow and read the latest data and related news about the new crown virus in Germany.
+A mobile application based on [React Native](https://reactnative.dev/) allows users to download the application through their mobile phones to follow and read the latest data and related news about the new coronavirus in Germany.
 
 
 ## Table of Contents
