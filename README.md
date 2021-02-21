@@ -1,6 +1,6 @@
 # Covid Travel
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/edit/main/README)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/blob/main/README)
 
 Project purpose
 
@@ -48,34 +48,33 @@ $ TODO Usage
 
 ## Badge
 
-[![Covid Travel](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Covid Travel](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/blob/main/README)
 
 To add in Markdown format, use this code:
 
 ```
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/edit/main/README)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](hhttps://github.com/andyZHH/AI-Cov19/blob/main/README)
 ```
 
 
 ## Related Efforts
 
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
-- [open-source-template](https://github.com/davidbgk/open-source-template/) - A README template to encourage open-source contributions.
+- [Aisel hands on](https://github.com/andyZHH/aisel-hands-on) - 💌 Hands-on material to support teaching of AI Systems Engineering.
 
 ## Maintainers
 
-[@RichardLitt](https://github.com/RichardLitt).
+[@andyZHH](https://github.com/andyZHH).
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/RichardLitt/standard-readme/issues/new) or submit PRs.
+Feel free to dive in! [Open an issue](https://github.com/andyZHH/AI-Cov19/blob/issues/new) or submit PRs.
 
 Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
 ### Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/andyZHH/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
 
 ## License
