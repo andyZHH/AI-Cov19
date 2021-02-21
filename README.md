@@ -74,9 +74,9 @@ Standard Readme follows the [Contributor Covenant](http://contributor-covenant.o
 ### Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/andyZHH/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/andyZHH/contributors"><img src="https://github.com/andyZHH/AI-Cov19/contributors.svg?width=890&button=false" /></a>
 
 
 ## License
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © Andy Huang
