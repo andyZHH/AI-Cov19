@@ -1,6 +1,6 @@
 # Covid Travel
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/edit/main/README.md)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/edit/main/README)
 
 Project purpose
 
@@ -39,27 +39,21 @@ $ npm install -g expo-cli
 
 ## Usage
 
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
+TODO
 
 ```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
+$ TODO Usage
+# TODO
 ```
-
-### Generator
-
-To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
 
 ## Badge
 
-If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Covid Travel](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 To add in Markdown format, use this code:
 
 ```
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/andyZHH/AI-Cov19/edit/main/README)
 ```
 
 ## Example Readmes
